@@ -54,7 +54,7 @@ def detect_handwriting(image_path):
     plt.show()
 
 # Path to the image containing handwriting
-image_path = 'rose.jpg'
+image_path = 'images.png'
 
 # Perform handwriting detection
 detect_handwriting(image_path)
