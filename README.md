@@ -46,6 +46,8 @@ Flatten the index,confidence.
 Display the result.
 
 ## Program:
+### Name: Shaik Shoaib Nawaz
+### Register Number: 212222240094
 ### I)Perform ROI from an image:
 ```
 import cv2
